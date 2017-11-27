@@ -1,0 +1,27 @@
+Resources are 10000 meters away
+Hero has 800 hp
+Hero attack is 14
+Bug is Enemy
+Lion is Enemy
+Zombie is Enemy
+Human is Enemy
+Bug has 50 hp
+Bug attack is 2
+Lion has 100 hp
+Lion attack is 15
+Zombie has 300 hp
+Zombie attack is 7
+Human has 250 hp
+Human attack 11
+There is a Zombie at position 1681
+There is a Bug at position 276
+There is a Bug at position 489
+There is a Lion at position 1527
+There is a Lion at position 2865
+There is a Zombie at position 3523
+There is a Bug at position 4783
+There is a Bug at position 4128
+There is a Lion at position 6823
+There is a Human at position 8909
+There is a Bug at position 9003
+There is a Human at position 9323
